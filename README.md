@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Sou aluna do Sesi, atualmente estou cursando o 2 ano do ensino médio e graças ao novo ensino médio eu estou cursando Desenvolvimento de Sistemas
 - Se eu tivesse quer dar uma nota para o quanto eu gosto do curso a nota seria 9/10 pelo ar-condicionado
+
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
