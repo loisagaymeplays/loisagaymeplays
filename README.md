@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - Se eu tivesse quer dar uma nota para o quanto eu gosto do curso a nota seria 9/10 pelo ar-condicionado
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
